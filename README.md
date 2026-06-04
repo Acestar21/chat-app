@@ -1,1 +1,1 @@
-Initial Readme
+Chat app using websockets ( learning purpose )
